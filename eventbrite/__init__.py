@@ -1,7 +1,7 @@
 import logging
 
-from eventbrite.client import EventbriteClient
-from eventbrite.client import EventbriteWidgets
+from client import EventbriteClient
+from client import EventbriteWidgets
 
 __version__ = '0.30'
 
