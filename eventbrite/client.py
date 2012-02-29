@@ -5,7 +5,7 @@ import time
 import httplib
 import logging
 import urllib
-from eventbrite import json_lib
+import json_lib
 
 # Input transformations
 def _datetime_to_string(incoming_datetime):
